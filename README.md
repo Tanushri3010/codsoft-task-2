@@ -1,2 +1,2 @@
 # codsoft-task-2
-creating personal portfolio using css and html
+created sample personal portfolio using html and css
